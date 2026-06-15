@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Muhire David</h1>
-<h3 align="center">I am a web developer. I focus on building web applications and android applications mainly using JavaScript language, and its technologies. I like coding and I am very passionate about it. Supprisingly when in my free time I play basketball and Checkers, I like reading books mostly those talking about technology, and business. I am passionate about what I do and a big fun of delivering quality work and learning more skills.</h3>
+<h2 align="center" >Full-Stack Software Engineer | Java Spring Boot | Django | Next.js | React</h2>
 
-- 🔭 I’m currently working on [IMC E-commerce Project](https://imc.rw/)
+<h3>I am a passionate Software Engineer with a Bachelor's Degree (Honors) in Computer Engineering, specializing in Software Engineering. I enjoy building scalable web applications, RESTful APIs, and modern full-stack solutions using Java, Spring Boot, JavaScript, TypeScript, React, Next.js, Django, and PostgreSQL. </h3>
+<h3> I have experience developing enterprise applications, e-commerce platforms, management systems, and AI-powered solutions. I am continuously learning new technologies and improving my software design, system architecture, and problem-solving skills.</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🔭 Currently working on enterprise and full-stack web applications
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-beryl-pi-51.vercel.app/](https://my-portfolio-beryl-pi-51.vercel.app/)
+- 🌱 Currently learning Advanced Spring Boot, Microservices, and System Design
 
-- 💬 Ask me about **React, NEXTJS,C++, Basic Networking**
+- 👨‍💻 Portfolio: [https://my-portfolio-beryl-pi-51.vercel.app/](https://my-portfolio-beryl-pi-51.vercel.app/)
 
-- 📫 How to reach me **muhiredavid74@gmail.com**
+- 💬 Ask me about Java, Spring Boot, React, Next.js, Django, TypeScript, PostgreSQL, REST APIs, and Software Engineering
 
-- ⚡ Fun fact **I think am Introvert**
+- 📫 Email: **muhiredavid74@gmail.com**
+
+- ⚡ Fun fact: I enjoy solving coding challenges, playing basketball, reading technology and business books, and learning how large-scale systems are designed.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
